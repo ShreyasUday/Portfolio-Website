@@ -14,9 +14,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shreyas Uday | Backend Engineer",
+  title: "SU | Backend Engineer",
   description:
     "Backend Engineer focused on platform/deployment workflows — Node.js, Docker, PostgreSQL, AWS EC2.",
+  icons: {
+    icon: "/favicon.ico?v=3",
+    shortcut: "/favicon.ico?v=3",
+    apple: "/apple-icon.png?v=3",
+  },
 };
 
 export default function RootLayout({

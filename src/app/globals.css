@@ -273,3 +273,18 @@ body {
 .boot-cursor {
   animation: bootCursor 900ms steps(1, end) infinite;
 }
+
+@keyframes grow {
+  from {
+    width: 0;
+  }
+}
+
+@keyframes scroll {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-50%);
+  }
+}

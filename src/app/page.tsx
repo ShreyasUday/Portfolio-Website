@@ -39,7 +39,7 @@ export default function Home() {
         <section className="py-16 sm:py-20">
           <Container>
             <FadeIn>
-            <div className="relative overflow-hidden sm:rounded-3xl sm:border sm:border-white/10 sm:bg-black/40 px-4 py-8 sm:p-12 sm:shadow-[0_0_0_1px_rgba(255,255,255,0.04)]">
+            <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-black/40 px-4 py-8 sm:p-12 sm:shadow-[0_0_0_1px_rgba(255,255,255,0.04)]">
               <div className="pointer-events-none absolute -left-24 -top-24 h-80 w-80 rounded-full bg-emerald-400/10 blur-3xl" />
               <div className="pointer-events-none absolute -bottom-24 -right-24 h-80 w-80 rounded-full bg-sky-400/10 blur-3xl" />
 
