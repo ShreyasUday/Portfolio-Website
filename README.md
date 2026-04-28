@@ -3,7 +3,7 @@
 Welcome to the source code for my personal developer portfolio. This site serves as a central hub for my professional identity, showcasing my technical projects, backend engineering skills, and contact information.
 
 ## 🔗 Live Demo
-**[Insert Your Vercel URL Here]**
+**[shreyas-uday.vercel.app](https://shreyas-uday.vercel.app/)**
 
 ## 🎨 Design & Architecture
 The design philosophy of this portfolio is heavily inspired by **developer environments and terminal aesthetics**. It uses dark, mechanical themes, glowing accent colors (neon emerald), and interactive code-block styling to reflect my focus on backend engineering and infrastructure.
